@@ -1,1 +1,1 @@
-public class Team{}
+public class Team{ String teamName = name; }
