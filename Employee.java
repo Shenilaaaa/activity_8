@@ -1,1 +1,1 @@
-public class Employee{}
+public class Employee{ String name; String id; int salary;}
